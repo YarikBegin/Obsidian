@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "adc458b53349c8d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f212986eff6f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688b016d756c8c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Функции, определение и вызов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "787f6070e7215468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Примитивные типы данных. Оператор typeof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ee4004970d36f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Два одиноких типа данных. undefined и null.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724558d5f726dd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Строки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a5be80db87eb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Числа и специальные числовые значения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f578c41f92ac5487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Числа и специальные числовые значения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba7a588132156747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Атрибуты и их методы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22f2cf1908aba9dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с атрибутами через встроенные свойства.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "631a03e8f4536c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9281003b185d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b50511434a344d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cce7ce65aeb41bc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0615bd61d912b444",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51bcb0a776ffea24",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aaf0a72ff24ea80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3b7d39b8a8013d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Работа с атрибутами через встроенные свойства.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d71f16301c5bdec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Работа с атрибутами через встроенные свойства.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73c4745b69c9b067",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca015eebeb7410f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Работа с атрибутами через встроенные свойства.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "22f2cf1908aba9dd",
+  "lastOpenFiles": [
+    "Атрибуты и их методы.md",
+    "Работа с атрибутами через встроенные свойства.md",
+    "Числа и специальные числовые значения.md",
+    "DOM.md",
+    "Image.png",
+    "Image (3).png",
+    "Image (2).png",
+    "Image (1).png",
+    "Примитивные типы данных. Оператор typeof.md",
+    "Строки.md"
+  ]
+}
