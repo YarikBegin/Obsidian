@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с атрибутами через встроенные свойства.md",
+                "file": "DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cf1a131ab1728e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Манипуляции с классами CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с атрибутами через встроенные свойства.md",
+                "file": "Манипуляции с классами CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с атрибутами через встроенные свойства.md",
+                "file": "Манипуляции с классами CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с атрибутами через встроенные свойства.md"
+                "file": "Манипуляции с классами CSS.md"
               }
             }
           }
@@ -231,17 +243,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "22f2cf1908aba9dd",
+  "active": "3cf1a131ab1728e0",
   "lastOpenFiles": [
-    "Атрибуты и их методы.md",
-    "Работа с атрибутами через встроенные свойства.md",
-    "Числа и специальные числовые значения.md",
     "DOM.md",
+    "Манипуляции с классами CSS.md",
+    "Числа и специальные числовые значения.md",
+    "Примитивные типы данных. Оператор typeof.md",
+    "Строки.md",
+    "Работа с атрибутами через встроенные свойства.md",
+    "Атрибуты и их методы.md",
     "Image.png",
     "Image (3).png",
-    "Image (2).png",
-    "Image (1).png",
-    "Примитивные типы данных. Оператор typeof.md",
-    "Строки.md"
+    "Image (2).png"
   ]
 }
