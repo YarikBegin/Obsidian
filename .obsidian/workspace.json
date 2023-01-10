@@ -114,9 +114,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eedbafc8fef96777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Функции, определение и вызов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6de6a90b4d6a10bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Атрибуты и их методы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3518d775c14f80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гибкая вставка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37ec2a95fa205e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Другие полезные свойства элементов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b531a5f871173acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дебаггинг JS. Введение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c171e3eb087582be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Типы ошибок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -182,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Манипуляции с классами CSS.md",
+                "file": "Типы ошибок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Манипуляции с классами CSS.md",
+                "file": "Типы ошибок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Манипуляции с классами CSS.md"
+                "file": "Типы ошибок.md"
               }
             }
           }
@@ -243,17 +315,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3cf1a131ab1728e0",
+  "active": "c171e3eb087582be",
   "lastOpenFiles": [
+    "Дебаггинг JS. Введение.md",
+    "Типы ошибок.md",
+    "Другие полезные свойства элементов.md",
+    "Гибкая вставка.md",
     "DOM.md",
-    "Манипуляции с классами CSS.md",
-    "Числа и специальные числовые значения.md",
-    "Примитивные типы данных. Оператор typeof.md",
-    "Строки.md",
-    "Работа с атрибутами через встроенные свойства.md",
     "Атрибуты и их методы.md",
-    "Image.png",
-    "Image (3).png",
-    "Image (2).png"
+    "Реакция на действия пользователя. События.md",
+    "Функции, определение и вызов.md",
+    "Управление содержимым (innerHTML и textContent).md",
+    "Манипуляции с классами CSS.md"
   ]
 }
