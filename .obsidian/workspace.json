@@ -431,8 +431,12 @@
             "id": "7135efd106dbf0a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -502,6 +506,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GITHUB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -518,6 +523,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GITHUB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -539,7 +545,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GITHUB.md"
+              }
             }
           }
         ]
@@ -561,15 +569,15 @@
   },
   "active": "7135efd106dbf0a3",
   "lastOpenFiles": [
-    "Шпаргалка Git.md",
+    "Идеальный коммит.md",
     "GITHUB.md",
+    "Ветки.md",
+    "Шпаргалка Git.md",
     "Отмена коммитов и сохранение.md",
     "Шпаргалка. Ветки в Git.md",
     "Деплой.md",
     "Слияние.md",
-    "Ветки.md",
     "Где git изменения хранит.md",
-    "Что делать, если закоммитили что-то не то.md",
-    "Просмотр изменений git diff.md"
+    "Что делать, если закоммитили что-то не то.md"
   ]
 }
