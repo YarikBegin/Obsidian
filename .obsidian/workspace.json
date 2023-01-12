@@ -186,9 +186,257 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9eecccb3dd6ad558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "192ee1846949acbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1dd7002707e47fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17014262a4af6d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f7a1d843d0bc121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9b1d7985109da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4169f9247fd30db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шпаргалка командная строка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a23af7a6ca75c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работать в командной строке быстро.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdf9aa5eeb94598c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работать в командной строке быстро.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb236aa3661a924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работать в командной строке быстро.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8351abbc6cb7a258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подключаем Git к проекту.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "464368e4ecc5ae47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09612dda98a88c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c500018bd894705c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe7dc1300ebc88ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "117433427b27a4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82065f337a6b50c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba18148453ae4325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f1c87c1eff9941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4d12b8b88270047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шпаргалка Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7135efd106dbf0a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -254,7 +502,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Типы ошибок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +518,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Типы ошибок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,9 +539,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Типы ошибок.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -315,17 +559,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c171e3eb087582be",
+  "active": "7135efd106dbf0a3",
   "lastOpenFiles": [
-    "Дебаггинг JS. Введение.md",
-    "Типы ошибок.md",
-    "Другие полезные свойства элементов.md",
-    "Гибкая вставка.md",
-    "DOM.md",
-    "Атрибуты и их методы.md",
-    "Реакция на действия пользователя. События.md",
-    "Функции, определение и вызов.md",
-    "Управление содержимым (innerHTML и textContent).md",
-    "Манипуляции с классами CSS.md"
+    "Шпаргалка Git.md",
+    "GITHUB.md",
+    "Отмена коммитов и сохранение.md",
+    "Шпаргалка. Ветки в Git.md",
+    "Деплой.md",
+    "Слияние.md",
+    "Ветки.md",
+    "Где git изменения хранит.md",
+    "Что делать, если закоммитили что-то не то.md",
+    "Просмотр изменений git diff.md"
   ]
 }
