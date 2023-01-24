@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "23ee4004970d36f2",
+=======
+            "id": "7135efd106dbf0a3",
+>>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Два одиноких типа данных. undefined и null.md",
                 "mode": "source",
                 "source": false
@@ -38,13 +43,20 @@
               "type": "markdown",
               "state": {
                 "file": "let и const против var.md",
+=======
+                "file": "GITHUB.md",
+>>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 2
+=======
+        ]
+>>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
       }
     ],
     "direction": "vertical"
@@ -173,6 +185,7 @@
   },
   "active": "5d07007dc394ae9f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "let и const против var.md",
     "JavaScript.md",
     "Циклы for, while, do...while.md",
@@ -183,5 +196,17 @@
     "DOM.md",
     "Манипуляции с классами CSS.md",
     "Функции, определение и вызов.md"
+=======
+    "Манипуляции с классами CSS.md",
+    "DOM.md",
+    "Работа с атрибутами через встроенные свойства.md",
+    "Слияние.md",
+    "GITHUB.md",
+    "Прячем незакоммиченные изменения.md",
+    "Идеальный коммит.md",
+    "Деплой.md",
+    "Ветки.md",
+    "Шпаргалка Git.md"
+>>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
   ]
 }
