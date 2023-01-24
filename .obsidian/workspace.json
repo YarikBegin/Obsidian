@@ -1,31 +1,50 @@
 {
   "main": {
-    "id": "adc458b53349c8d3",
+    "id": "d44936f209645e4f",
     "type": "split",
     "children": [
       {
-        "id": "d8f212986eff6f4e",
+        "id": "07a0eb734f750868",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "23ee4004970d36f2",
-=======
-            "id": "7135efd106dbf0a3",
->>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
+            "id": "7ca9dd15727c3758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Два одиноких типа данных. undefined и null.md",
+                "file": "let и const против var.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3cf05266ee63d9b",
+            "id": "7fc3fe50f255f794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee85acaabc8324f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28cb2db3d733c47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,40 +56,57 @@
             }
           },
           {
-            "id": "5d07007dc394ae9f",
+            "id": "08114a5976549e9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "let и const против var.md",
-=======
-                "file": "GITHUB.md",
->>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
+                "file": "Неявное преобразование типов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feecae88c9fd6a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74de5a77d99c3307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Логические операторы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
         ],
-        "currentTab": 2
-=======
-        ]
->>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "631a03e8f4536c4d",
+    "id": "f5fff018cc555661",
     "type": "split",
     "children": [
       {
-        "id": "1d9281003b185d94",
+        "id": "db72eb0ef5908352",
         "type": "tabs",
         "children": [
           {
-            "id": "4b50511434a344d4",
+            "id": "59fe8cc0a16505ce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +116,7 @@
             }
           },
           {
-            "id": "cce7ce65aeb41bc9",
+            "id": "9f0504c0b50ff3cd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +131,7 @@
             }
           },
           {
-            "id": "0615bd61d912b444",
+            "id": "4cea8c52f7afabf9",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -109,20 +145,20 @@
     "width": 300
   },
   "right": {
-    "id": "51bcb0a776ffea24",
+    "id": "196753e9621aee57",
     "type": "split",
     "children": [
       {
-        "id": "4aaf0a72ff24ea80",
+        "id": "e1cb7401cc5be109",
         "type": "tabs",
         "children": [
           {
-            "id": "ab3b7d39b8a8013d",
+            "id": "64c427b8d3a784c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "let и const против var.md",
+                "file": "Логические операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +170,19 @@
             }
           },
           {
-            "id": "9d71f16301c5bdec",
+            "id": "7f8dc9682cba9da0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "let и const против var.md",
+                "file": "Логические операторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "73c4745b69c9b067",
+            "id": "b4016dd7b594a68c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +193,12 @@
             }
           },
           {
-            "id": "ca015eebeb7410f4",
+            "id": "1d4c8baab4ab38d8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "let и const против var.md"
+                "file": "Логические операторы.md"
               }
             }
           }
@@ -183,30 +219,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5d07007dc394ae9f",
+  "active": "74de5a77d99c3307",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "let и const против var.md",
     "JavaScript.md",
-    "Циклы for, while, do...while.md",
-    "Два одиноких типа данных. undefined и null.md",
-    "Строки.md",
-    "Числа и специальные числовые значения.md",
-    "Атрибуты и их методы.md",
+    "Логические операторы.md",
+    "Явное преобразование типов.md",
+    "let и const против var.md",
+    "Неявное преобразование типов.md",
     "DOM.md",
-    "Манипуляции с классами CSS.md",
-    "Функции, определение и вызов.md"
-=======
-    "Манипуляции с классами CSS.md",
-    "DOM.md",
-    "Работа с атрибутами через встроенные свойства.md",
-    "Слияние.md",
-    "GITHUB.md",
-    "Прячем незакоммиченные изменения.md",
-    "Идеальный коммит.md",
-    "Деплой.md",
-    "Ветки.md",
-    "Шпаргалка Git.md"
->>>>>>> 6456d70f2ba406353c2e37f2adbb25ac2a155612
+    "Управление содержимым (innerHTML и textContent).md",
+    "Методы для работы с числами.md",
+    "Методы преобразования строк.md",
+    "Методы поиска в строке.md"
   ]
 }
