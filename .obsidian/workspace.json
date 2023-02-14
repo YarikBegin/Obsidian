@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07a0eb734f750868",
+        "id": "bb441d77d5b478a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c44ea0cfb907181d",
+            "id": "b9d6a8495aeaee07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb367e3afb54a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef646ded1708cc7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "массив",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,17 +139,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7bb367e3afb54a1b",
+  "active": "b9d6a8495aeaee07",
   "lastOpenFiles": [
-    "Как работать с документацией.md",
+    "Валидация.md",
     "JavaScript.md",
-    "GITHUB.md",
-    "SSH.md",
-    "Merge tools.md",
-    "Функции, определение и вызов.md",
-    "Дополнительно поднятие переменных и функций.md",
-    "Функции с неопределённым числом аргументов.md",
-    "Аргументы по умолчанию.md",
-    "Стрелочные функции.md"
+    "Формы.md",
+    "Обработка событий.md",
+    "Взаимодействие с другими элементами DOM.md",
+    "Валидация нескольких полей и форм.md",
+    "Связываем JS-методы валидации с DOM.md",
+    "Валидация с JavaScript.md",
+    "Встроенная браузерная валидация форм.md",
+    "Методы reset и submit.md"
   ]
 }
