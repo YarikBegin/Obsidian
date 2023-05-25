@@ -4,167 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9be0e512cbeff7fb",
+        "id": "957f0a0acf0a00bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d1f0bafbecf81b51",
+            "id": "028543c18d7bd5b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7492c3a3f41edabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194b051c9675a2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a3d1a1966b3fbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f432ee34027960b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63c6b27b9da5e44c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef45fe0a983cec68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028632bc109683bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "967a379753bf5cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49b8b21e1a568c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "302cd8f563176917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b94df2510001a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "100f29e4a5bd97fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bind",
+                "query": "Navigate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "adc36efec33ac6b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -231,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -292,33 +147,33 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "100f29e4a5bd97fa",
+  "active": "028543c18d7bd5b7",
   "lastOpenFiles": [
-    "Всё о this. Заключение.md",
+    "Продвинутый JavaScript.md",
+    "Дополнительно рефакторинг с использованием контекста.md",
+    "Выход из системы.md",
+    "Проверка токенов.md",
+    "Вход в систему.md",
+    "Локальное хранилище.md",
+    "Регистрация.md",
+    "Защита маршрутов на фронте.md",
+    "Программная навигация.md",
+    "Переадресация пользователя.md",
+    "Встречайте новый проект.md",
+    "Как не проходить аутентификацию при каждом заходе на сайт JWT.md",
+    "Аутентификация и авторизация в чём отличия.md",
+    "Введение во фронтенд-аутентификацию.md",
+    "Дополнительные материалы API CORS.md",
+    "Защита от злоумышленников CORS.md",
+    "Статус ответа сервера.md",
+    "Правила именования ресурсов.md",
+    "HTTP-методы.md",
+    "Что такое REST.md",
+    "Асинхронные колбэки.md",
     "JavaScript.md",
-    "Стрелочные функции.md",
-    "Стрелочные функции 1.md",
-    "Функции, определение и вызов.md",
-    "Привязка new.md",
-    "React.md",
-    "Явная привязка. Методы call, apply и bind.md",
-    "Объектно-ориентированное программирование. Введение.md",
-    "Явная привязка. Метод bind.md",
-    "Вызов метода объекта.md",
-    "Строгий режим.md",
-    "Зависимости.md",
-    "Virtual DOM.md",
-    "Внутреннее состояние хук useState.md",
-    "Добавление классового компонента.md",
-    "Эффекты хук useEffect.md",
-    "Сборка проекта.md",
-    "Использование расширения React DevTools.md",
-    "Установка расширения React DevTools.md",
-    "Дебаггинг проекта.md",
-    "Шрифты.md",
-    "Работа с CSS.md",
-    "Импорт изображений.md",
-    "Импорт модулей.md",
-    "Структура проекта.md"
+    "Выкладываем сайт на сервер.md",
+    "Деплой.md",
+    "Асинхронные операции.md",
+    "Как тренировать алгоритмическое мышление.md"
   ]
 }
