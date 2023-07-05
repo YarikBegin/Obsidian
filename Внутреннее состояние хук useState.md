@@ -4,7 +4,7 @@
 
 Скопировать кодJSX
 
-```
+```jsx
 // Классовый компонент User
 class User extends React.Component {
   constructor(props) {
